@@ -5,4 +5,6 @@ Hello Trademarkia,
 --> I have done certifications on REACTjs.
 --> I even worked as a FrontEnd Webdevelopment intern for a company known as Geak Minds Technologies(Formerly known as Infofaces) Taramani,Chennai. 
 --> I have attached my certifications in this folder.
---> 
+
+
+Thank you.
